@@ -26,7 +26,7 @@ while True:
             right_hand = (direction+60)%360
 
             disc = None
-            if left_hand > right_hand:      # 왼쪽이랑 오른쪽 어느쪽이 개방되어있는지
+            if left_hand > right_hand:      # 진행방향쪽 거리만 이용하기위해
                 disc = degree >= left_hand or degree <= right_hand
             else:
                 disc = degree >= left_hand and degree <= right_hand
