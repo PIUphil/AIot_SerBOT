@@ -99,7 +99,7 @@ def camv(n):
     return
 
 @blynk.VIRTUAL_WRITE(5)             # 자율주행-수동조작 전환
-def auto_button(n):
+def auto_switch(n):
     global auto
 
     if int(n[0])==1:
