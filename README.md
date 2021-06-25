@@ -1,4 +1,5 @@
 # AIoT SerBOT 주행
+![KakaoTalk_20210625_123143018](https://user-images.githubusercontent.com/58851945/123365531-64ae3c00-d5b1-11eb-8995-c7676e0d462b.jpg)
 
 ### 0. Blynk 화면
 ![image](https://user-images.githubusercontent.com/58851945/123362627-f0bd6500-d5ab-11eb-9bc6-08eb9c738814.png)
