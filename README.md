@@ -1,5 +1,5 @@
 # AIoT SerBOT 주행
-// https://youtu.be/GcWgcxPpN08
+// https://youtu.be/GcWgcxPpN08   // 10.10.13.207:8888
 ![KakaoTalk_20210625_123143018](https://user-images.githubusercontent.com/58851945/123365531-64ae3c00-d5b1-11eb-8995-c7676e0d462b.jpg)
 
 ### 0. Blynk 화면
